@@ -1,0 +1,18 @@
+.app {
+    width: 100vh;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: black;
+}
+
+.app__input {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.wrapper {
+    background-color: white;
+    padding: 100px;
+    border-radius: 10px;
+}
